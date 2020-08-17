@@ -1,1 +1,1 @@
-Hello! It's a Greetings from GitHub!
+Hello! Greetings from GitHub!
